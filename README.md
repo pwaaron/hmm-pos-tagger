@@ -1,4 +1,4 @@
-# hmm-pos-tagger
+# Twitter Parts-of-Speech Tagging using Hidden Markov Model: Viterbi Algorithm
 Project Submission for BT3102 Computational Methodologies for Business Analytics Fall 2019
 
 Built a Parts-of-Speech (POS) Tagger using of Tweets based on the Hidden Markov Model using the Viterbi Algorithm. 
